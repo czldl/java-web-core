@@ -1,7 +1,6 @@
 # Compiled class file
 *.class
-src/test
-*QiniuUtils.java
+
 # Log file
 *.log
 
@@ -23,9 +22,14 @@ src/test
 hs_err_pid*
 
 target/
+*/target/
 .settings/
 .classpath
 .project
+*.settings/
+*.classpath
+*.project
+
 pom.xml.tag
 pom.xml.releaseBackup
 pom.xml.versionsBackup
